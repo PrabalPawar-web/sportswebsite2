@@ -1,0 +1,67 @@
+.navbar{
+    background-color: yellow;
+    gap: 50px;
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+   align-items: center;
+}
+ul{
+    display: flex;
+    gap: 40px;
+    list-style: none;
+    gap: 50px;
+}
+
+.h1{
+    align-items: center;
+}
+
+.navbar{
+ margin: 0px;
+ padding:  0px;
+ box-sizing: content-box;
+}
+.row{
+    position: relative;
+}
+
+
+
+
+header{
+   background-image: url(basketball.jpg.jpg);
+   padding-top: 10cap;
+   padding: 50px;
+   background-size: cover;
+   height: 100vh;
+   
+}
+
+.wrapper{
+    background-color: black;
+    height: 10vh;
+    display: grid;
+    grid-template-columns: repeat(4,auto);
+     grid-template-rows: 10px 20px;
+}
+.ch{
+    background-color: lavender;
+    border: 2px solid;
+}
+.ch1{
+    grid-column-start: 1;
+    grid-column-end: 8;
+    background-color: black
+    
+}
+.imgtext{
+    background-image: url();
+}.shoes img{
+    height: 200px;
+    width: 200px;
+}
+
+
+
+
